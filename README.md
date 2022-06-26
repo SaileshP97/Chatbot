@@ -1,2 +1,2 @@
 # Chatbot
-This is a Chat bot project.
+This is a Chatbot project.
