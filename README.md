@@ -1,2 +1,3 @@
 # Chatbot
-This is a Chatbot project.
+I created a chatbot that can be helpfull for retailer to sell there goods.
+This is a basic project, we can add payment Systems and a Database to store order details to make it for functional.  
